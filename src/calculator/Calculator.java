@@ -5,7 +5,6 @@ import java.util.InputMismatchException;
 import java.util.List;
 import java.util.Scanner;
 import java.util.regex.*;
-import sun.awt.geom.Crossings;
 
 public class Calculator {
 
